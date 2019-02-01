@@ -1,0 +1,10 @@
+C:\Users\Nikita\Documents\Projects\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Nikita\Documents\Projects\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Nikita\Documents\Projects\Task2\Task2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Documents\Projects\Task2\Task2\obj\x86\Debug\Task2.exe
+C:\Users\Nikita\Documents\Projects\Task2\Task2\obj\x86\Debug\Task2.pdb
+D:\PP2\Week1\Task2\Task2\bin\Debug\Task2.exe
+D:\PP2\Week1\Task2\Task2\bin\Debug\Task2.pdb
+D:\PP2\Week1\Task2\Task2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
+D:\PP2\Week1\Task2\Task2\obj\x86\Debug\Task2.exe
+D:\PP2\Week1\Task2\Task2\obj\x86\Debug\Task2.pdb

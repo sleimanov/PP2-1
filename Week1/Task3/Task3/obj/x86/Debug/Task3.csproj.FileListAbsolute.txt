@@ -1,0 +1,5 @@
+D:\PP2\Week1\Task3\Task3\obj\x86\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\PP2\Week1\Task3\Task3\bin\Debug\Task3.exe
+D:\PP2\Week1\Task3\Task3\bin\Debug\Task3.pdb
+D:\PP2\Week1\Task3\Task3\obj\x86\Debug\Task3.exe
+D:\PP2\Week1\Task3\Task3\obj\x86\Debug\Task3.pdb
